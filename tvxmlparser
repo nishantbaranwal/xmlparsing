@@ -1,16 +1,16 @@
 <tv>
 <channel id="com.example.android.sampletvinput.2-1" repeat-programs="true">
-<display-name>Google</display-name>
+<display-name>Apple</display-name>
 <display-number>1</display-number>
 <icon src="http://storage.googleapis.com/android-tv/images/google.png"/>
 </channel>
 <channel id="com.example.android.sampletvinput.2-2" repeat-programs="true">
-<display-name>Creative Commons</display-name>
+<display-name>Microsoft</display-name>
 <display-number>2</display-number>
 <icon src="http://storage.googleapis.com/android-tv/images/cc.png"/>
 </channel>
 <channel id="com.example.android.sampletvinput.2-3" repeat-programs="true">
-<display-name>HLS</display-name>
+<display-name>HTTP Live Stream</display-name>
 <display-number>3</display-number>
 <icon src="http://storage.googleapis.com/android-tv/images/hls.png"/>
 <app-link text="App Link Text 1" color="#4caf50" poster-uri="android.resource://com.example.android.sampletvinput/drawable/your_company" intent-uri="intent:#Intent;component=com.example.android.sampletvinput/.rich.RichAppLinkSidePanelActivity;S.display-number=3;end">
