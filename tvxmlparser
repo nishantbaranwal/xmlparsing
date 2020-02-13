@@ -37,7 +37,7 @@ Introducing Big Buck Bunny.
 <value>com.android.tv/US_TV/US_TV_14/US_TV_D/US_TV_L</value>
 </rating>
 </programme>
-<programme start="20150817000147 +0000" stop="20150817004502 +0000" channel="com.example.android.sampletvinput.2-1" video-src="" video-type="HTTP_PROGRESSIVE">
+<programme start="20150817000147 +0000" stop="20150817004502 +0000" channel="com.example.android.sampletvinput.2-1" video-src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" video-type="HTTP_PROGRESSIVE">
 <title>Nishant 2014 Casting To The Future</title>
 <desc>Nishant 2014 Casting To The Future</desc>
 <icon src="http://storage.googleapis.com/gtv-videos-bucket/sample/images_480x270/ToTheFuture2-480x270.jpg"/>
