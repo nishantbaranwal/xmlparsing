@@ -47,7 +47,7 @@ Introducing Big Buck Bunny.
 <value>com.android.tv/US_TV/US_TV_PG/US_TV_D</value>
 </rating>
 </programme>
-<programme start="20150817004502 +0000" stop="20150817005902 +0000" channel="com.example.android.sampletvinput.2-1" video-src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" video-type="HTTP_PROGRESSIVE">
+<programme start="20150817004502 +0000" stop="20150817005902 +0000" channel="com.example.android.sampletvinput.2-1" video-src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4">
 <title>ChromeCast</title>
 <desc>
 GoogleIO 2014 Making Google Cast Ready Apps Discoverable.
